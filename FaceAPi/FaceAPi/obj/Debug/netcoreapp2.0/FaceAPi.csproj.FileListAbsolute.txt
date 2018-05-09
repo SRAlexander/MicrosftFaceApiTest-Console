@@ -1,0 +1,10 @@
+/Users/scottalexander/Development/MicrosftFaceApiTest-Console/FaceAPi/FaceAPi/bin/Debug/netcoreapp2.0/FaceAPi.deps.json
+/Users/scottalexander/Development/MicrosftFaceApiTest-Console/FaceAPi/FaceAPi/bin/Debug/netcoreapp2.0/FaceAPi.runtimeconfig.json
+/Users/scottalexander/Development/MicrosftFaceApiTest-Console/FaceAPi/FaceAPi/bin/Debug/netcoreapp2.0/FaceAPi.runtimeconfig.dev.json
+/Users/scottalexander/Development/MicrosftFaceApiTest-Console/FaceAPi/FaceAPi/bin/Debug/netcoreapp2.0/FaceAPi.dll
+/Users/scottalexander/Development/MicrosftFaceApiTest-Console/FaceAPi/FaceAPi/bin/Debug/netcoreapp2.0/FaceAPi.pdb
+/Users/scottalexander/Development/MicrosftFaceApiTest-Console/FaceAPi/FaceAPi/obj/Debug/netcoreapp2.0/FaceAPi.csproj.CoreCompileInputs.cache
+/Users/scottalexander/Development/MicrosftFaceApiTest-Console/FaceAPi/FaceAPi/obj/Debug/netcoreapp2.0/FaceAPi.AssemblyInfoInputs.cache
+/Users/scottalexander/Development/MicrosftFaceApiTest-Console/FaceAPi/FaceAPi/obj/Debug/netcoreapp2.0/FaceAPi.AssemblyInfo.cs
+/Users/scottalexander/Development/MicrosftFaceApiTest-Console/FaceAPi/FaceAPi/obj/Debug/netcoreapp2.0/FaceAPi.dll
+/Users/scottalexander/Development/MicrosftFaceApiTest-Console/FaceAPi/FaceAPi/obj/Debug/netcoreapp2.0/FaceAPi.pdb
